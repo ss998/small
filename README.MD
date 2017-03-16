@@ -25,12 +25,6 @@
 * threads
 
 	List all threads.
-* test
-
-	Test all modules.
-* gpio
-
-	Set or get gpio status. 
 
 
 
